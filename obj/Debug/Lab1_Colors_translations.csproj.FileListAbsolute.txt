@@ -1,0 +1,10 @@
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\bin\Debug\Lab1_Colors_translations.exe.config
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\bin\Debug\Lab1_Colors_translations.exe
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\bin\Debug\Lab1_Colors_translations.pdb
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\obj\Debug\Lab1_Colors_translations.csprojAssemblyReference.cache
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\obj\Debug\Lab1_Colors_translations.Form1.resources
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\obj\Debug\Lab1_Colors_translations.Properties.Resources.resources
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\obj\Debug\Lab1_Colors_translations.csproj.GenerateResource.cache
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\obj\Debug\Lab1_Colors_translations.csproj.CoreCompileInputs.cache
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\obj\Debug\Lab1_Colors_translations.exe
+C:\Users\taras\OneDrive\Desktop\Univer\CG\Labs\Lab1_Colors_translations\obj\Debug\Lab1_Colors_translations.pdb
